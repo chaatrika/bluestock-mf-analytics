@@ -1,8 +1,10 @@
 jupyter
-matplotlib
 numpy
 pandas
+matplotlib
+
 plotly
 requests
 seaborn
 SQLAlchemy
+scipy==1.13.1
