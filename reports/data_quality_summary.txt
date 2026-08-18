@@ -1,0 +1,7 @@
+DATA QUALITY SUMMARY — AMFI Scheme Code Validation
+---------------------------------------------------
+Fund Master Unique Codes : 40
+NAV History Unique Codes : 40
+Master Codes Missing in NAV: 0
+NAV Codes Missing in Master: 0
+Coverage                 : 100.00%
